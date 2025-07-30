@@ -86,7 +86,7 @@ Se configurado corretamente, uma mensagem será enviada ao Teams após a execuç
 ## ✅ Exemplo de Mensagem no Teams
 
 ```
-🚨 Rotina: Atualização de arquivo Licencas Santander
+🚨 Rotina: Nome da rotina
 📄 Script: envio_teams.py
 ⏱️ Tempo: 00:00:00
 ❌ Erros: 0 Erro(s)
