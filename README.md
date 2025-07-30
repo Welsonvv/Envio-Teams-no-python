@@ -210,7 +210,7 @@ Você pode testar e editar seu card usando o [Adaptive Card Designer](https://ad
 
 ## 👨‍💻 Autor
 
-Welson — [LinkedIn](https://www.linkedin.com/) | Analista e Engenheiro de Dados
+Desenvolvido por [Welson Viana](https://github.com/Welsonvv)
 
 ---
 
